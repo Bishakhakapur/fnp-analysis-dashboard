@@ -1,13 +1,92 @@
-# FNP self-analysis dashboard 
-This project is a self-created Excel dashboard built to analyze my performance in the Finance and project (FNP) subject.
+# 📊 FNP Sales Analysis Dashboard (Excel)
 
-### key features:
-- Topic-wise accuracy tracking
-- time spent analysis
-- progress visualization using charts and conditional formating
+This project presents a dynamic **Sales Analysis Dashboard** built using **Microsoft Excel**, analyzing the performance of **Ferns N Petals (FNP)** — a leading brand in gifting and floral services. The dashboard tracks key metrics such as total orders, revenue, product category performance, delivery times, and customer behavior.
 
-### Tools used:
-- Microsoft excel
+---
 
-### created by:
-**Bishakha Kapur**
+## 🧠 Key Insights
+
+- 🧾 **Total Orders:** 1000  
+- 💰 **Total Revenue:** ₹35,20,984  
+- ⏱️ **Average Delivery Time:** 5.53 days  
+- 💳 **Avg. Customer Spend:** ₹3,520.98  
+- 🗓️ Peak Sales Months: **March** and **September**  
+- 🏙️ Top City by Orders: **Dhanbad**  
+- 🎁 Best-selling Product: **Magman Set**
+
+---
+
+## 📌 Dashboard Features
+
+- **Revenue Breakdown by:**
+  - 🎉 Occasion (Anniversary, Diwali, Valentine’s Day, etc.)
+  - 📦 Product Category (Cakes, Mugs, Sweets, etc.)
+  - 🗓️ Day of the Week and Month
+
+- **Visuals:**
+  - Bar charts, line graphs, slicers
+  - Interactive filtering by **Order Date**, **Delivery Time**, and **Occasion**
+
+- **Top 5 Products & Cities** by revenue and order volume
+
+---
+
+## 📂 Data Source
+
+-fnp datasets/customers.csv
+-Ferns and Petals Sales Analysis.pdf
+
+---
+
+## 💻 Tools Used
+
+- **Microsoft Excel**  
+  - Pivot Tables & Pivot Charts  
+  - Dynamic Dashboards  
+  - Slicers and Timelines  
+  - Conditional Formatting  
+  - KPI Calculations and Formulas
+
+---
+
+## 🎯 Objectives
+
+- Demonstrate Excel dashboarding skills  
+- Derive actionable insights from raw sales data  
+- Present data in a clean, interactive, and visually effective way  
+- Showcase practical business analysis techniques
+
+---
+
+## ✅ Skills Demonstrated
+
+- Advanced Excel dashboarding  
+- Data modeling & cleaning  
+- Sales performance analysis  
+- Visual storytelling with data  
+- UX-focused report design
+
+---
+
+## 📸 Preview
+
+![FNP Sales Dashboard Screenshot]
+
+---
+
+## 📍 Author
+
+**Bishakha Kapur**  
+Data Analyst | B.Com (Hons) | Excel Expert | Tableau | Python |
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/bishakha-kapur-605181317)
+
+---
+
+## 🔖 Ideal For
+
+- Portfolio showcase for job applications  
+- Internship interview presentations  
+- Business simulation projects  
+- Retail or e-commerce sales strategy discussions
+
+---
